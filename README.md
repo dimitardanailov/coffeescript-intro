@@ -3,6 +3,10 @@ CoffeeScript Intro
 
 CoffeeScript Demo for public lecture into a Varna Lab
 
+Presentation
+====================
+http://www.slideshare.net/dimityrdanailov/coffeescript-intro
+
 License
 ====================
 Copyright (C) 2013, Dimitar Danailov
